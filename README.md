@@ -23,14 +23,14 @@
 
 [junsuk5][git-url]에서 최신 코드로 업데이트 된 것을 확인할 수 있습니다.
 
-[project1]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-1"
-[project2]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-2"
-[project3]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-3"
-[project4]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-4"
-[project5]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-5"
-[project6]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-6"
-[project7]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-7"
-[project8]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-8"
-[project9]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-9"
-[project10]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-10"
-[git-url]: "https://github.com/junsuk5/kotlin-android"
+[project1]: https://github.com/ParkBeomMin/kotlin-android/tree/project-1
+[project2]: https://github.com/ParkBeomMin/kotlin-android/tree/project-2
+[project3]: https://github.com/ParkBeomMin/kotlin-android/tree/project-3
+[project4]: https://github.com/ParkBeomMin/kotlin-android/tree/project-4
+[project5]: https://github.com/ParkBeomMin/kotlin-android/tree/project-5
+[project6]: https://github.com/ParkBeomMin/kotlin-android/tree/project-6
+[project7]: https://github.com/ParkBeomMin/kotlin-android/tree/project-7
+[project8]: https://github.com/ParkBeomMin/kotlin-android/tree/project-8
+[project9]: https://github.com/ParkBeomMin/kotlin-android/tree/project-9
+[project10]: https://github.com/ParkBeomMin/kotlin-android/tree/project-10
+[git-url]: https://github.com/junsuk5/kotlin-android
