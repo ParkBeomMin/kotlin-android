@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlin_BMI_Calculator</string>
+    <string name="weight">몸무게</string>
+    <string name="height">키</string>
+    <string name="click">클릭</string>
+</resources>
