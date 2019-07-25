@@ -21,7 +21,6 @@
 
 ## 저자 Github
 
-[junsuk5][git-url]에서 최신 코드로 업데이트 된 것을 확인할 수 있습니다.
+[junsuk5][https://github.com/junsuk5/kotlin-android]에서 최신 코드로 업데이트 된 것을 확인할 수 있습니다.
 
 [chap1]: "https://github.com/parkbeommin/kotlin-android/"
-[git-rul]: "https://github.com/junsuk5/kotlin-android"
