@@ -1,4 +1,4 @@
-package com.beomji.parkbeommin.kotlin_web_browser
+package com.beomji.parkbeommin.kotlin_tilt_sensor
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.beomji.parkbeommin.kotlin_web_browser", appContext.packageName)
+        assertEquals("com.beomji.parkbeommin.kotlin_tilt_sensor", appContext.packageName)
     }
 }

@@ -1,4 +1,4 @@
-package com.beomji.parkbeommin.kotlin_web_browser
+package com.beomji.parkbeommin.kotlin_tilt_sensor
 
 import org.junit.Test
 
