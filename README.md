@@ -6,12 +6,12 @@
 
 ## 프로젝트 목차
 
-1. 첫 번째 앱 만들기
-2. 비만도 계산기
-3. 스톱워치
-4. 나만의 웹 브라우저
-5. 수평 측정기
-6. 전자액자
+1. [첫 번째 앱 만들기][project1]
+2. [비만도 계산기][project2]
+3. [스톱워치][project3]
+4. [나만의 웹 브라우저][project4]
+5. [수평 측정기][project5]
+6. [전자액자][project6]
 7. 지도와 GPS
 8. 손전등
 9. 실로폰
@@ -21,6 +21,16 @@
 
 ## 저자 Github
 
-[junsuk5][https://github.com/junsuk5/kotlin-android]에서 최신 코드로 업데이트 된 것을 확인할 수 있습니다.
+[junsuk5][git-url]에서 최신 코드로 업데이트 된 것을 확인할 수 있습니다.
 
-[chap1]: "https://github.com/parkbeommin/kotlin-android/"
+[project1]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-1"
+[project2]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-2"
+[project3]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-3"
+[project4]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-4"
+[project5]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-5"
+[project6]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-6"
+[project7]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-7"
+[project8]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-8"
+[project9]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-9"
+[project10]: "https://github.com/ParkBeomMin/kotlin-android/tree/project-10"
+[git-url]: "https://github.com/junsuk5/kotlin-android"
